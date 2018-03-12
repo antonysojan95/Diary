@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Diary</string>
+
+    <!-- Sign and SignUp Page-->
+
+    <string name="signUp_btn">Register</string>
+    <string name="signIn_btn">Sign In</string>
+    <string name="update_btn">Update</string>
+    <string name="gps_network_not_enabled">Please Enable Location</string>
+    <string name="open_location_settings">Location Settings</string>
+    <string name="Cancel">Cancel</string>
+    <string name="email_number">Email Address</string>
+    <string name="paswd">Password</string>
+    <string name="account_create">Create an account?</string>
+    <string name="SignUp">\u0020 Sign Up</string>
+    <string name="submit">Submit</string>
+    <string name="btn_register">Register Now</string>
+    <string name="cpr_no">ime</string>
+    <string name="address">City</string>
+    <string name="phno">Phone Number</string>
+    <string name="create_acnt">Have an Account?</string>
+    <string name="Login">\u0020 Log In.</string>
+    <string name="password">Password</string>
+    <string name="retype_password">Re-type Password</string>
+    <string name="emil_address">Email Address</string>
+    <string name="full_name">Full Name</string>
+    <string name="fill_txt">Fill the details below</string>
+
+</resources>
